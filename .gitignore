@@ -1,0 +1,29 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Hidden files
+.env
+*.env
+
+# Results and large files
+results/
+*.csv
+*.tsv
+*.xlsx
+*.log
+
+# VSCode or PyCharm
+.vscode/
+.idea/
+
+# Conda environment backup
+*.yml
+*.lock
