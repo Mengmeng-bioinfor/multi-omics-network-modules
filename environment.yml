@@ -1,0 +1,17 @@
+name: multiomics-network-pipeline
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - networkx
+  - scikit-learn
+  - jupyterlab
+  - seaborn
+  - pip
+  - pip:
+      - python-louvain
