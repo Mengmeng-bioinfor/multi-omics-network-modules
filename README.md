@@ -16,3 +16,6 @@ This repository provides a pipeline for constructing biological networks from mu
 - Gene-metabolite network graphs
 - List of modules with topological properties
 - Node centrality scores for biomarker prioritisation
+![Network with identified modules](results/CAa_network.png)
+
+![Topological properties](results/CAa_topology.png)
